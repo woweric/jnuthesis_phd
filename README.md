@@ -1,5 +1,5 @@
 # 江南大学博士学位论文Latex模版
-在zhuangbo同学模版的基础上就行了修改，能够在windows11 和 macOS上运行，主要更改内容包括：
+在zhuangbo同学模版的基础上就行了修改，能够在Windows11 和 macOS Sonoma上运行，主要更改内容包括：
 1. 修改了macOS的默认字体，使其能够运行
 2. 修改了jnthesis.cls的样式，使其能够支持算法伪代码书写
 
