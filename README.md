@@ -5,6 +5,8 @@
 
 Attention: 不能直接在Windows中运行，请将jnthesis.cls中对字体的修改还原。
 
+Windows环境下模版请移步：https://github.com/xen0n/JNUthesis
+
 最近修改日期：2024/5/7
 
 如果其他问题，欢迎在PR中提出。
