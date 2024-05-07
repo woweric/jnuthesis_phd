@@ -3,7 +3,8 @@
 1. 修改了macOS的默认字体，使其能够运行
 2. 修改了jnthesis.cls的样式，使其能够支持算法伪代码书写
 
-Attention: 不能直接在Windows中运行，请将jnthesis中对字体的修改还原。
+Attention: 不能直接在Windows中运行，请将jnthesis.cls中对字体的修改还原。
+
 最近修改日期：2024/5/7
 
 如果其他问题，欢迎在PR中提出。
